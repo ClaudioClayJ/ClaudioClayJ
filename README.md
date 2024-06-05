@@ -22,4 +22,4 @@ Trabalho com essas tecnologias atualmente...👨‍💻
 <img  alt="" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div></br>
 
-Depois que você começa a progamar, você não para mais. É um loop ♾️
+Depois que você começa a programar, você não para mais. É um loop ♾️
