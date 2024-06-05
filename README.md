@@ -6,7 +6,7 @@
     📚💻📕🧠
 </h4>
 
-![ClaudioClayJ GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioClayJ&show_icons=true&theme=tokyonight)
+
 
 <h3>
 Trabalho com essas tecnologias atualmente...👨‍💻
